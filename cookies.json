@@ -1,6 +1,6 @@
 {
   "Emails": [],
-  "Cookies": [],
+  "Cookies": [sb=VtVdZrGK8pbQAxe0kxunnzAg; datr=k3xqZp9hO3vKMToqjCQZL97e; locale=en_US; ps_n=1; ps_l=1; vpd=v1%3B662x360x2; dpr=2.1988937854766846; wd=360x662; fr=0dGsAeWzvEGH4EiHd.AWXTcfa91t5mAD3_4KN6cG4-G7s.BmanyT..AAA.0.0.Bmbrrb.AWXI4ElWcug; c_user=61557040649280; xs=11%3AAW9csoTN0biBtg%3A2%3A1718532827%3A-1%3A7824; m_page_voice=61557040649280; fbl_st=100621167%3BT%3A28642341; wl_cbv=v2%3Bclient_version%3A2529%3Btimestamp%3A1718540493],
   "extra-configs": {
     "NOTE": "Requires NerdFonts if set to true",
     "_": "true or false",
